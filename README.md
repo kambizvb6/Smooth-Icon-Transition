@@ -1,5 +1,5 @@
 # Smooth-Icon-Transition
-[![Project Gif]([path/to/your/gif/file.gif](https://github.com/kambizvb6/Smooth-Icon-Transition/blob/main/SmoothI-Icon.gif))]([link/to/your/project](https://github.com/kambizvb6/Smooth-Icon-Transition))
+[![Project Gif]([[path/to/your/gif/file.gif](https://github.com/kambizvb6/Smooth-Icon-Transition/blob/main/SmoothI-Icon.gif)](https://github.com/kambizvb6/Smooth-Icon-Transition/blob/main/SmoothI-Icon.gif))]([link/to/your/project](https://github.com/kambizvb6/Smooth-Icon-Transition))
 
 ## Description
 
