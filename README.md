@@ -1,7 +1,7 @@
 # Smooth-Icon-Transition
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/kambizvb6/Smooth-Icon-Transition/blob/main/SmoothI-Icon.gif" alt="demo"/>
+  <img width="200" align="center" src="https://github.com/kambizvb6/Smooth-Icon-Transition/blob/main/SmoothI-Icon.gif" alt="demo"/>
 </p>
 ## Description
 
